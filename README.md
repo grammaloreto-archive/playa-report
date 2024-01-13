@@ -2,4 +2,4 @@
 
 ## Docs de Proyectos Personales 
 
-[playa.report](https://www.playa.report/) 
+[playa.report](https://joyful-wisp-37c933.netlify.app/) 
